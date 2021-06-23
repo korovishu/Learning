@@ -48,7 +48,7 @@ itemList.forEach((item)=>{
         activeItem.classList.toggle("active");
         image.setAttribute("src",item["previewImage"]);
         label.innerText = item["title"];
-        flag = false;
+        flag = false;//hihi
     }
     list.append(listItem);
 })
