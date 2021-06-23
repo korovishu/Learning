@@ -26,7 +26,7 @@ const changePreview = function(currItem){
     src = src.substring(5,src.length-2); // Extracting path of image
     image.setAttribute("src",src); // set image
     label.innerText = activeItem.getAttribute('id');
-    //done
+    //done done
 }
 
 // Adding items to html
