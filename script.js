@@ -36,7 +36,7 @@ label.classList.add("label");
 container.append(list);
 container.append(image);
 container.append(label);
-
+//traverse
 itemList.forEach((item)=>{
     let listItem = document.createElement("li");
     listItem.setAttribute("id",item["title"]);
