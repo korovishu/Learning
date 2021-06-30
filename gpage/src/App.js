@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React. Dhinka chika.
+          Learn React. Dhinka chika. logbos
         </a>
       </header>
     </div>
